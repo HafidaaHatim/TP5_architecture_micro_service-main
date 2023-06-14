@@ -60,3 +60,19 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 
 <img width="661" alt="2_products" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ad9943d0-1fed-414b-a8d9-b8bdb5feb546">
 
+### 3.Créer la Gateway service en utilisant Spring Cloud Gateway
+1.Customers with gateway en utilisant une configuration Statique basée sur le fichier application.yml :
+
+<img width="652" alt="gateway_customers" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/4f3e6e68-5e69-48be-930b-85999c45c311">
+
+2.Products with gateway  en utilisant une configuration Statique basée sur le fichier application.yml :
+
+<img width="527" alt="gateway_products_withfunctionroute" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/9a10b79a-07bd-4642-935c-353f8462ef08">
+
+3.Customers with gateway en utilisant une configuration Statique basée une configuration Java
+
+### 6.Créer l’annuaire Registry Service basé sur NetFlix Eureka Server
+
+
+
+
