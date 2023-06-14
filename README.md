@@ -71,7 +71,22 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 
 3.Customers with gateway en utilisant une configuration Statique basée une configuration Java
 
+<img width="544" alt="customers_withfunctionroute" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ab90b271-4abd-4f11-8a66-11c57ec2b659">
+4.Products with gateway en utilisant une configuration Statique basée une configuration Java
+
+<img width="637" alt="gateway_products" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/09d9dfeb-5c72-429d-b3aa-574f285d508b">
+
 ### 6.Créer l’annuaire Registry Service basé sur NetFlix Eureka Server
+
+<img width="960" alt="SpringEureka_services" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/2cb7e543-ce22-480b-9e69-838bafe6e8ae">
+
+### 7.Tester le proxy en utilisant une configuration dynamique de Gestion des routes vers les micro services enregistrés dans l'annuaire Eureka Server
+
+<img width="614" alt="gateway_dynamique" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/e1d9285d-109c-4fcd-b807-71c318b3700c">
+
+
+
+
 
 
 
