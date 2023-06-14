@@ -72,6 +72,7 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 3.Customers with gateway en utilisant une configuration Statique basée une configuration Java
 
 <img width="544" alt="customers_withfunctionroute" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ab90b271-4abd-4f11-8a66-11c57ec2b659">
+
 4.Products with gateway en utilisant une configuration Statique basée une configuration Java
 
 <img width="637" alt="gateway_products" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/09d9dfeb-5c72-429d-b3aa-574f285d508b">
