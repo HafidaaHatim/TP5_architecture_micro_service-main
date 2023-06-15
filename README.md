@@ -85,6 +85,28 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 
 <img width="614" alt="gateway_dynamique" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/e1d9285d-109c-4fcd-b807-71c318b3700c">
 
+### 8.Créer Le service Billing-Service en utilisant Open Feign pour communiquer avec les services Customer-service et Inventory-service
+H2 Console Bill :
+
+<img width="383" alt="facture" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/5b538870-b93c-4683-ba30-9e188c9a0c21">
+
+H2 Console Product Item :
+
+<img width="513" alt="productItem" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/40cc262b-128c-4100-b474-45b3c6298e24">
+
+Gatewaye presente toute les données de la facture :
+
+<img width="913" alt="BillinService-fullbill" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/5f0f2bee-ca4f-438f-8e8f-70a24525b125">
+
+Billing-service :
+
+<img width="947" alt="localhostebillinservice" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/331b62c5-ff4c-4d14-b0ff-6b6ee0ea96e7">
+
+
+
+
+
+
 
 
 
