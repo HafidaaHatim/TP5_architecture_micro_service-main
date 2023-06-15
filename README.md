@@ -102,6 +102,8 @@ Billing-service :
 
 <img width="947" alt="localhostebillinservice" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/331b62c5-ff4c-4d14-b0ff-6b6ee0ea96e7">
 
+### 9.Créer un client Angular qui permet d’afficher une facture
+
 
 
 
